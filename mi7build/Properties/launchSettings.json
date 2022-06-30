@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mi7build": {
+      "commandName": "Project",
+      "commandLineArgs": "pack \"watchface\" --out wf.bin"
+    }
+  }
+}

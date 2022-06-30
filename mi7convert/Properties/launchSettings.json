@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mi7convert": {
+      "commandName": "Project",
+      "commandLineArgs": "unpack watchface"
+    }
+  }
+}
